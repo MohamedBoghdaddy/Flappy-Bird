@@ -1,0 +1,4 @@
+﻿  Flappybird.cpp
+C:\Users\Moham\source\repos\Flappybird\Flappybird\Flappybird.cpp(70,23): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Moham\source\repos\Flappybird\Flappybird\Flappybird.cpp(80,23): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Flappybird.vcxproj -> C:\Users\Moham\source\repos\Flappybird\x64\Debug\Flappybird.exe
